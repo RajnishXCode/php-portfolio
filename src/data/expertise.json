@@ -1,0 +1,68 @@
+{
+  "title": "Full-Stack Design Expertise",
+  "subtitle": "Delivering measurable results through strategic thinking and technical excellence",
+  "categories": [
+    {
+      "id": 1,
+      "title": "UI/UX",
+      "description": "Creating intuitive and engaging user interfaces",
+      "skills": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Visual Design",
+        "Usability Testing",
+        "Design Systems"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Development",
+      "description": "Building robust and scalable applications",
+      "skills": [
+        "Frontend Development",
+        "Backend Development",
+        "Database Design",
+        "API Development",
+        "Testing",
+        "DevOps"
+      ]
+    }
+  ],
+  "developmentProcess": {
+    "title": "Our Development Process",
+    "subtitle": "Technologies We Use",
+    "frontend": [
+      "React",
+      "Vue.js",
+      "Angular",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "Node.js",
+      "Python",
+      "Express.js",
+      "Django",
+      "FastAPI",
+      "GraphQL"
+    ],
+    "database": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Firebase",
+      "Supabase"
+    ],
+    "cloud": [
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "Vercel",
+      "Netlify",
+      "Docker"
+    ]
+  }
+}

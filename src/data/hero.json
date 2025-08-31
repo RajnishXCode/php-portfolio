@@ -1,0 +1,30 @@
+{
+  "greeting": "Hello",
+  "name": "MARC",
+  "subtitle": "Helping Entrepreneurs Dreams Come To Life",
+  "description": "I'm a passionate full-stack developer with expertise in modern web technologies. I help entrepreneurs and businesses transform their ideas into powerful digital solutions that drive growth and success.",
+  "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&crop=face",
+  "profileImageAlt": "Marc - Full Stack Developer",
+  "buttons": {
+    "primary": "Start a Project",
+    "secondary": "Services"
+  },
+  "stats": [
+    {
+      "number": "50+",
+      "label": "Projects Completed"
+    },
+    {
+      "number": "30+",
+      "label": "Happy Clients"
+    },
+    {
+      "number": "3+",
+      "label": "Years Experience"
+    },
+    {
+      "number": "98%",
+      "label": "Client Satisfaction"
+    }
+  ]
+}

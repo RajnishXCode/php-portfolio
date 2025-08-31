@@ -1,0 +1,57 @@
+{
+  "title": "What I Deliver",
+  "subtitle": "Ready-to-launch solutions tailored to your business needs",
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Custom websites and web applications built with modern technologies",
+      "features": [
+        "Responsive Design",
+        "Performance Optimization",
+        "SEO Friendly",
+        "Cross-browser Compatible",
+        "Modern Frameworks",
+        "Clean Code"
+      ],
+      "icon": "💻",
+      "technologies": ["React", "Next.js", "Vue.js", "TypeScript"]
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design",
+      "description": "User-centered design solutions that enhance user experience",
+      "features": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Visual Design",
+        "Design Systems",
+        "Usability Testing"
+      ],
+      "icon": "🎨",
+      "technologies": ["Figma", "Adobe XD", "Sketch", "InVision"]
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack Development",
+      "description": "End-to-end development solutions from concept to deployment",
+      "features": [
+        "Frontend Development",
+        "Backend APIs",
+        "Database Design",
+        "Authentication",
+        "Payment Integration",
+        "Cloud Deployment"
+      ],
+      "icon": "⚡",
+      "technologies": ["Node.js", "Python", "MongoDB", "PostgreSQL"]
+    }
+  ],
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "subtitle": "Claim your FREE 30-minute strategy call and discover how our proven approach can help you outperform your competitors and drive measurable growth.",
+    "buttonText": "Claim Your Free Strategy Call",
+    "bottomline": "Limited availability. No obligation. 100% confidential."
+  }
+}

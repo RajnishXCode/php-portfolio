@@ -1,0 +1,57 @@
+{
+  "title": "Interactive Portfolio",
+  "subtitle": "Explore real results from our recent projects",
+  "description": "Each Solution delivered measurable business impact for our clients.",
+  "projects": [
+    {
+      "id": 1,
+      "title": "WallStreet TechX",
+      "description": "A comprehensive financial technology platform built with React and Node.js, featuring real-time market data and advanced analytics.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
+      "tags": ["React", "Node.js", "MongoDB", "Socket.io"],
+      "demoUrl": "#",
+      "codeUrl": "#",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce Platform",
+      "description": "Modern e-commerce solution with payment integration, inventory management, and responsive design.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&h=300&fit=crop",
+      "tags": ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
+      "demoUrl": "#",
+      "codeUrl": "#",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Task Management App",
+      "description": "Collaborative task management application with real-time updates and team collaboration features.",
+      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=500&h=300&fit=crop",
+      "tags": ["React", "Firebase", "Material-UI", "PWA"],
+      "demoUrl": "#",
+      "codeUrl": "#",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Weather Dashboard",
+      "description": "Beautiful weather application with location-based forecasts and interactive maps.",
+      "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=500&h=300&fit=crop",
+      "tags": ["Vue.js", "OpenWeather API", "Chart.js", "CSS3"],
+      "demoUrl": "#",
+      "codeUrl": "#",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Social Media Analytics",
+      "description": "Advanced analytics dashboard for social media performance tracking and insights.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop",
+      "tags": ["React", "D3.js", "Express", "Redis"],
+      "demoUrl": "#",
+      "codeUrl": "#",
+      "featured": false
+    }
+  ]
+}

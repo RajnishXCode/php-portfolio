@@ -1,0 +1,40 @@
+{
+  "quickLinks": {
+    "title": "Start a Project",
+    "links": [
+      { "name": "Web Development", "url": "/services/web" },
+      { "name": "UI/UX Design", "url": "/services/design" },
+      { "name": "Consultation", "url": "/consultation" },
+      { "name": "Support", "url": "/support" }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "links": [
+      { "name": "Frontend Development", "url": "/services/frontend" },
+      { "name": "Backend Development", "url": "/services/backend" },
+      { "name": "Full-Stack Development", "url": "/services/fullstack" },
+      { "name": "Performance Optimization", "url": "/services/optimization" }
+    ]
+  },
+  "tools": {
+    "title": "Tools",
+    "links": [
+      { "name": "React", "url": "/tools/react" },
+      { "name": "Next.js", "url": "/tools/nextjs" },
+      { "name": "TypeScript", "url": "/tools/typescript" },
+      { "name": "Node.js", "url": "/tools/nodejs" }
+    ]
+  },
+  "connect": {
+    "title": "Connect",
+    "links": [
+      { "name": "LinkedIn", "url": "https://linkedin.com/in/rajnishxcode" },
+      { "name": "GitHub", "url": "https://github.com/rajnishxcode" },
+      { "name": "Twitter", "url": "https://twitter.com/rajnishxcode" },
+      { "name": "Email", "url": "mailto:rajnishxcode@example.com" }
+    ]
+  },
+  "copyright": "© 2024 Rajnish. All rights reserved.",
+  "contactEmail": "rajnishxcode@example.com"
+}

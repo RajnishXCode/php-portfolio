@@ -1,0 +1,66 @@
+{
+  "title": "Technologies I Work With",
+  "subtitle": "Modern tools for modern solutions",
+  "techStack": [
+    {
+      "name": "React",
+      "icon": "SiReact",
+      "color": "#61DAFB"
+    },
+    {
+      "name": "Next.js",
+      "icon": "SiNextdotjs",
+      "color": "#000000"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "SiTypescript",
+      "color": "#3178C6"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "SiJavascript",
+      "color": "#F7DF1E"
+    },
+    {
+      "name": "Node.js",
+      "icon": "SiNodedotjs",
+      "color": "#339933"
+    },
+    {
+      "name": "Python",
+      "icon": "SiPython",
+      "color": "#3776AB"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "SiMongodb",
+      "color": "#47A248"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "SiPostgresql",
+      "color": "#336791"
+    },
+    {
+      "name": "Docker",
+      "icon": "SiDocker",
+      "color": "#2496ED"
+    },
+    {
+      "name": "AWS",
+      "icon": "SiAmazonaws",
+      "color": "#FF9900"
+    },
+    {
+      "name": "Git",
+      "icon": "SiGit",
+      "color": "#F05032"
+    },
+    {
+      "name": "Figma",
+      "icon": "SiFigma",
+      "color": "#F24E1E"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Client Success Stories",
+  "subtitle": "Don't just take my word for it - here's what clients say about our collaboration",
+  "stats": [
+    {
+      "number": "50+",
+      "label": "Completed Projects"
+    },
+    {
+      "number": "40+",
+      "label": "Happy Clients"
+    },
+    {
+      "number": "3+",
+      "label": "Years Experience"
+    },
+    {
+      "number": "98%",
+      "label": "Project Success Rate"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "position": "CEO, TechCorp",
+      "company": "TechCorp Inc.",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=60&h=60&fit=crop&crop=face",
+      "rating": 5,
+      "review": "Marc delivered exceptional results for our e-commerce platform. His attention to detail and technical expertise exceeded our expectations. The project was completed on time and within budget."
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "position": "Product Manager",
+      "company": "InnovateX",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=60&h=60&fit=crop&crop=face",
+      "rating": 5,
+      "review": "Working with Marc was a fantastic experience. He understood our vision perfectly and translated it into a beautiful, functional application. Highly recommended!"
+    },
+    {
+      "id": 3,
+      "name": "Michael Chen",
+      "position": "Startup Founder",
+      "company": "StartupHub",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=60&h=60&fit=crop&crop=face",
+      "rating": 5,
+      "review": "Marc helped us build our MVP from scratch. His full-stack expertise and business understanding made him an invaluable partner in our journey."
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "position": "CTO",
+      "company": "DigitalFlow",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=60&h=60&fit=crop&crop=face",
+      "rating": 5,
+      "review": "The quality of code and architecture Marc provided was outstanding. He follows best practices and delivers scalable solutions."
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "position": "Marketing Director",
+      "company": "GrowthCo",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=60&h=60&fit=crop&crop=face",
+      "rating": 5,
+      "review": "Marc's web development skills are top-notch. Our website's performance improved dramatically after his optimization work."
+    },
+    {
+      "id": 6,
+      "name": "Lisa Rodriguez",
+      "position": "Operations Manager",
+      "company": "EffiTech",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=60&h=60&fit=crop&crop=face",
+      "rating": 5,
+      "review": "Professional, reliable, and incredibly skilled. Marc delivered exactly what we needed and more. Will definitely work with him again."
+    }
+  ]
+}
